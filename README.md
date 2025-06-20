@@ -1,0 +1,1 @@
+# jjclipboard-macos-app
